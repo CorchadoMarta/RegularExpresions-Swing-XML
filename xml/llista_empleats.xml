@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Company_Staff>
+    <Pencaire>
+        <id>134</id>
+        <nom>Chema</nom>
+        <sexe>home</sexe>
+        <edat>32</edat>
+        <carrec>Delegat</carrec>
+        <passwd>123</passwd>
+    </Pencaire>
+    <Pencaire>
+        <id>126</id>
+        <nom>Marta</nom>
+        <sexe>dona</sexe>
+        <edat>23</edat>
+        <carrec>Designer</carrec>
+        <passwd>456</passwd>
+    </Pencaire>
+    <Pencaire>
+        <id>127</id>
+        <nom>Gerard</nom>
+        <sexe>home</sexe>
+        <edat>22</edat>
+        <carrec>Aries</carrec>
+        <passwd>565</passwd>
+    </Pencaire>
+    <Pencaire>
+        <id>128</id>
+        <nom>Cagi</nom>
+        <sexe>home</sexe>
+        <edat>26</edat>
+        <carrec>Super Developer</carrec>
+        <passwd>858</passwd>
+    </Pencaire>
+    <Pencaire>
+        <id>126</id>
+        <nom>Juan</nom>
+        <sexe>home</sexe>
+        <edat>35</edat>
+        <carrec>Backend</carrec>
+        <passwd>639</passwd>
+    </Pencaire>
+</Company_Staff>

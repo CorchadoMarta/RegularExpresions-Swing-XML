@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Treballado id="123">
+    <nom>Karla</nom>
+    <carrec>Becaria</carrec>
+    <edat>23</edat>
+    <genere>dona</genere>
+    <passwd>1234</passwd>
+</Treballado>
+<Treballado id="123">
+    <nom>Chema</nom>
+    <carrec>Becario</carrec>
+    <edat>32</edat>
+    <genere>hombre</genere>
+    <passwd>2364</passwd>
+</Treballado>
